@@ -1,5 +1,6 @@
 # ColourPop
-Licenced @kinaiinfotech
+*Licenced @kinaiinfotech
+
 Advanced Bubble Shooter Game with Superb Activity Containing Bubbles
 
 Introducing New Advanced Bubble Shooting Game with Movable Targets Bubbles with Interactive Shapes
